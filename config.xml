@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "cz.marekjelen.beershift"
+        versionCode="8" 
+        version   = "0.0.1">
+
+    <name>BeerShift</name>
+
+    <description>BeerShift app for Android using jQuery mobile</description>
+
+    <author href="https://www.marekjelen.cz" email="mjelen@redhat.com">Marek Jelen</author>
+
+</widget>
